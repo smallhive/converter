@@ -1,0 +1,16 @@
+{
+    "name": "belazar13/converter",
+    "description": "Universal converter between numeric systems",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Evgeny Baydakov",
+            "email": "e.bajdakov@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "5.7.14",
+        "symfony/class-loader": "2.0.7"
+    }
+}
