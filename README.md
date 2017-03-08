@@ -45,8 +45,6 @@ print $c->baseToDec(110);
 ## OctConverter
 
 ``` PHP
-<?php
-
 use belazar13\converter\OctConverter;
 
 require_once __DIR__ . '/autoload.php';
@@ -59,8 +57,6 @@ print $c->decToBase(100500);
 ## HexConverter
 
 ``` PHP
-<?php
-
 use belazar13\converter\HexConverter;
 
 require_once __DIR__ . '/autoload.php';
