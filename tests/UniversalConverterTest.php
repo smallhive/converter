@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class ConverterTest extends TestCase
+class UniversalConverterTest extends TestCase
 {
     public function testBin2()
     {
